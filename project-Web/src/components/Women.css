@@ -1,0 +1,137 @@
+.wrapper {
+    display: flex;
+  }
+  
+.product_women {
+    width: 100%;
+  }
+  
+  .product .title {
+    font-size: 18px;
+    color: #000000;
+    opacity: 100%;
+    padding: 12px;
+  }
+  
+  .title_b {
+    font-size: 14px;
+    color: #000000;
+    opacity: 100%;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .product-customzx {
+    width: 100%;
+    height: auto;
+    position:relative;
+    top: -420px;
+  }
+
+  .product-customss {
+    width: 100%;
+    height: auto;
+    position:absolute;
+    top: 660px;
+  }
+  
+  .chat_support {
+    position: absolute;
+    left: 1280px;
+    background-color: red;
+    width: 50px;
+    text-align: center;
+    border-color: red;
+  }
+  
+  .icon_chat {
+    color: white;
+  }
+  
+  .support {
+    color: white;
+  }
+  
+  .contentcd {
+    width: 100%;
+    position: relative;
+    top: 1160px;
+  }
+  .content_a {
+    display: flex;
+    border: 2px solid black;
+    width: 450px;
+    justify-content: center;
+    padding: 6px;
+    /* margin-left: 260px; */
+    color: #000000;
+  }
+  
+  .content_a:hover {
+    cursor: pointer;
+  }
+  
+  .content-main {
+    margin-top: 16px;
+    display: flex;
+    background-color: #000000;
+    opacity: 80%;
+  }
+  
+  .content-a {
+    padding: 8px;
+    width: 610px;
+    color: rgb(255, 255, 255);
+  }
+  
+  
+  .content-a p {
+    margin-left: 4px;
+    margin-top: 8px;
+  }
+  
+  .content-b{
+    width:250px ;
+    color: rgb(255, 255, 255);
+    /* padding: 8px; */
+    margin-left: 12px;
+    margin-top: 8px;
+  }
+  
+  .content-b ul {
+    list-style: none;
+  }
+  
+  .content-b ul li {
+    padding: 0 4px;
+    margin-top: 8px;
+  }
+  
+  .content-c {
+    width: 380px;
+    color:rgb(255, 255, 255);
+  }
+  
+  .content-c h1 {
+    padding: 8px;
+  }
+  
+  .content-c ul {
+    list-style: none;
+  }
+  
+  .content-c ul li {
+    margin-left: 14px;
+    margin-bottom: 16px;
+  }
+  
+  .content-c input {
+    margin-left: 14px;
+    outline: none;
+  }
+  
+  .content-c button {
+    margin-left: 4px;
+    outline: none;
+    
+  }

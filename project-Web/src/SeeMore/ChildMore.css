@@ -1,0 +1,35 @@
+.products_lists {
+    max-width: 800px;
+
+}
+
+.categoryss {
+    font-size: 24px;
+    font-weight: bold;
+    position: absolute;
+    top: -60px;
+    left: 22px;
+}
+
+.productss-a {
+    display: flex;
+   
+}
+
+.products-as {
+    width: calc(50% - 10px);
+}
+
+.products-as img{
+    margin-top:-20px;
+    width: 330px;
+    height: 476px;
+    object-fit: cover;
+    padding: 10px;
+}
+
+
+.products-details-a {
+    text-align: center;
+
+}

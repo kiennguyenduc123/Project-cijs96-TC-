@@ -1,0 +1,30 @@
+.ml {
+    margin-top: 18px;
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-price {
+    padding: 12px;
+}
+
+.label-container {
+    margin-top: 14px;
+    padding: 8px;
+}
+
+
+.label-container input {
+    cursor: pointer;
+    
+}
+
+
+.label-container:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+.label-container input:checked ~ .checkmark {
+    background-color: #2196f3;
+}
